@@ -2,7 +2,7 @@
 //  SecondViewController.swift
 //  FirstKadaiApp
 //
-//  Created by kazuto masuda on 2020/11/05.
+//  Created by kmzstdbnsh on 2020/11/05.
 //  Copyright © 2020 kmzstdbnsh. All rights reserved.
 //
 
